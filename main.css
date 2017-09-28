@@ -1,15 +1,27 @@
 body {
-    background-color: #ffa;
+    background-color: #bf8dd3;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
 }
 
 h1 {
     color: #880000;
+    border: 8px dotted #026868;
+    color: #ffffff;
+    margin: 50px;
+    padding: 20px;
+    text-align: center;
 }
 
 h2 {
-
+    color: #ffffff;
 }
 
 p {
-
+    border-left: 10px solid #026868;
+    font-size: 18px;
+    line-height: 1;
+    margin: 20px;
+    padding-left: 10px
 }
